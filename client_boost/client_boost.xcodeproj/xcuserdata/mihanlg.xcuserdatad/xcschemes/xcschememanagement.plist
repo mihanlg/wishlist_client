@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>wishlist_client.xcscheme</key>
+		<key>client_boost.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>56839ED81CB48D7D00F839EE</key>
+		<key>56D1B5C41CCC067B0065044E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

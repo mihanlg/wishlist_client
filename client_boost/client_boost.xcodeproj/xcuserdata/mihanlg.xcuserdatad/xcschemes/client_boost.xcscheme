@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "56839ED81CB48D7D00F839EE"
-               BuildableName = "wishlist_client"
-               BlueprintName = "wishlist_client"
-               ReferencedContainer = "container:wishlist_client.xcodeproj">
+               BlueprintIdentifier = "56D1B5C41CCC067B0065044E"
+               BuildableName = "client_boost"
+               BlueprintName = "client_boost"
+               ReferencedContainer = "container:client_boost.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "56839ED81CB48D7D00F839EE"
-            BuildableName = "wishlist_client"
-            BlueprintName = "wishlist_client"
-            ReferencedContainer = "container:wishlist_client.xcodeproj">
+            BlueprintIdentifier = "56D1B5C41CCC067B0065044E"
+            BuildableName = "client_boost"
+            BlueprintName = "client_boost"
+            ReferencedContainer = "container:client_boost.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,12 +55,22 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "56839ED81CB48D7D00F839EE"
-            BuildableName = "wishlist_client"
-            BlueprintName = "wishlist_client"
-            ReferencedContainer = "container:wishlist_client.xcodeproj">
+            BlueprintIdentifier = "56D1B5C41CCC067B0065044E"
+            BuildableName = "client_boost"
+            BlueprintName = "client_boost"
+            ReferencedContainer = "container:client_boost.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "192.168.1.33"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "8880"
+            isEnabled = "YES">
+         </CommandLineArgument>
+      </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -74,10 +84,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "56839ED81CB48D7D00F839EE"
-            BuildableName = "wishlist_client"
-            BlueprintName = "wishlist_client"
-            ReferencedContainer = "container:wishlist_client.xcodeproj">
+            BlueprintIdentifier = "56D1B5C41CCC067B0065044E"
+            BuildableName = "client_boost"
+            BlueprintName = "client_boost"
+            ReferencedContainer = "container:client_boost.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
